@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Favour victor",
+        "email": "favourvic@gmail.com",
+        "level": "100L",
+        "courseTitle": "Use of Englih",
+        "courseCode": "GSS 1101",
+        "criditUnit": 3
+    },
+    {
+        "name": "juliet victor",
+        "email": "julietv@gmail.com",
+        "level": "300L",
+        "courseTitle": "Chemistry lab",
+        "courseCode": "CHC 1012",
+        "criditUnit": 4
+    },
+    {
+        "name": "Dehbi Mich",
+        "email": "debora7@gmail.com",
+        "level": "400L",
+        "courseTitle": "Engineering maths",
+        "courseCode": "ENG 2101",
+        "criditUnit": 3
+    },
+    {
+        "name": "James Abasi",
+        "email": "abasijames@gmail.com",
+        "level": "200L",
+        "courseTitle": "Electrical Studio 1",
+        "courseCode": "EEE 2101",
+        "criditUnit": 2
+    },
+    {
+        "name": "Thankgod kings",
+        "email": "thankgod00@gmail.com",
+        "level": "300L",
+        "courseTitle": "Engineering mech",
+        "courseCode": "ENG 2105",
+        "criditUnit": 3
+    },
+    {
+        "name": "Michael Obi",
+        "email": "obi123@gmail.com",
+        "level": "500L",
+        "courseTitle": "Strength of material",
+        "courseCode": "ENG 2107",
+        "criditUnit": 3
+    },
+    {
+        "name": "Jonh look",
+        "email": "loojohn@gmail.com",
+        "level": "300L",
+        "courseTitle": "material science",
+        "courseCode": "ENG 2106",
+        "criditUnit": 3
+    },
+    {
+        "name": "Jonas schmedtmann",
+        "email": "jonas0@gmail.com",
+        "level": "200L",
+        "courseTitle": "Enge in society",
+        "courseCode": "ENG2103",
+        "criditUnit": 1
+    },
+    {
+        "name": "Sylvester bessong",
+        "email": "bessong5@gmail.com",
+        "level": "400L",
+        "courseTitle": "Peace & conflict",
+        "courseCode": "Gss2101",
+        "criditUnit": 2
+    },
+    {
+        "name": "Success ckuwku",
+        "email": "ckuwku1@gmail.com",
+        "level": "100L",
+        "courseTitle": "computer programming",
+        "courseCode": "csc2101",
+        "criditUnit": 3
+    }
+]
